@@ -1,0 +1,118 @@
+*{
+    
+    padding:0px;
+    margin:0px;
+    background:transparent;
+    box-sizing:border-box;
+    text-decoration:none;
+    
+}
+
+
+header{
+   position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    padding:30px 100px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    z-index:100;
+    background:transparent;
+}
+.two{
+    font-size:2em;
+    color:#555;
+}
+
+.two span{
+    color:blueviolet;
+}
+.navi{
+    margin-left:-500px;
+    border-bottom:none;
+
+}
+.navi a{
+    font-size:1em;
+    color:black;
+    margin-right:40px;
+    font-weight:400;
+    border-bottom:none;
+
+}
+
+.btn{
+    color:white;
+    padding:8px 25px;
+    background:violet;
+    border:2px solid purple;
+    border-radius:5px;
+    font-weight:500;
+    border-bottom:none;
+}
+
+.one{
+     position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url('https://imgs.search.brave.com/yUCYrEe84wJriz85OppjoWDOXKrac6b-bT1qRSH6EEs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ5/MzM1NTc5NC9waG90/by9wb3J0cmFpdC1v/Zi1hLWNvbmZpZGVu/dC1hc2lhbi1zdWNj/ZXNzZnVsLWJ1c2lu/ZXNzbWFuLWFnYWlu/c3Qtd2hpdGUtYmFj/a2dyb3VuZC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9a0lB/RVRpMDQxZlVoOW1C/X2wwWDhDS2M3bUVQ/ZDN1VmczT1MtYU56/cUNFND0');
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 30px 100px;
+    background-size:cover;
+}
+.new{
+    max-width:500px;
+    color:black;
+}
+
+.new h1{
+    font-size:3em;
+}
+
+.new h3{
+    font-size:2em;
+}
+.new p{
+    padding:10px 0 40px 0;
+}
+
+.button a{
+    color:white;
+    border:2px solid purple;
+    border-radius:10px;
+    font-weight:500;
+    padding:10px 40px;
+    background-color: lightcoral;
+}
+
+.button a:hover:nth-child(1){
+    color:purple;
+    background: transparent;
+}
+
+.button a:nth-child(2){
+    color:deeppink;
+    background:transparent;
+    margin-left:30px;
+
+}
+ .button a:hover:nth-child(2){
+    background-color: cyan;
+ }
+
+ .footer a{
+      display: inline-block;
+    width: 35px;
+    height: 35px;
+    background:white;
+    border-radius: 50%;
+    
+    text-align: center;
+    line-height: 35px;
+    border: 3px solid violet;
+    margin:50px 22px;
+ }
