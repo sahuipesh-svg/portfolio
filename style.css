@@ -59,7 +59,7 @@ header{
     height: 100vh;
     background: url('https://imgs.search.brave.com/yUCYrEe84wJriz85OppjoWDOXKrac6b-bT1qRSH6EEs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ5/MzM1NTc5NC9waG90/by9wb3J0cmFpdC1v/Zi1hLWNvbmZpZGVu/dC1hc2lhbi1zdWNj/ZXNzZnVsLWJ1c2lu/ZXNzbWFuLWFnYWlu/c3Qtd2hpdGUtYmFj/a2dyb3VuZC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9a0lB/RVRpMDQxZlVoOW1C/X2wwWDhDS2M3bUVQ/ZDN1VmczT1MtYU56/cUNFND0');
     background-position: center;
-    display: flex;
+    display:flex;
     align-items: center;
     padding: 30px 100px;
     background-size:cover;
